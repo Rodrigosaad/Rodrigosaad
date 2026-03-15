@@ -1,5 +1,5 @@
 # Olá, eu sou o Rodrigo Saad 
-- Estudante de Desenvolvimento de sistemas
+- Estudante de Desenvolvimento de Sistemas
  
 - Atualmente estou focado em Python, HTML,e CSS
 - Estou em busca de uma vaga na área
